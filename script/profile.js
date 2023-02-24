@@ -1,5 +1,5 @@
 /**
- * Author: Lee Kai Pui, Pan Rubin
+* Author: Ken, Ben
  * Group: 01
  * Assignment: EA2
  * Module: ITE3006
